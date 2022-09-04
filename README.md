@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bigjev
+- 👋 Hi, I’m @cyber-jev
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Web programming
 - 💞️ I’m looking to collaborate on open source projects
