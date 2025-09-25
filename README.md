@@ -6,7 +6,7 @@ I'm a Web Artisan.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://johnnyekparam.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning Blochchain Development Solidity/Foundry
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
