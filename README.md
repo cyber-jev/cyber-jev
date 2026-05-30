@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&section=header&text=Hey,+I'm+Jev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend+Developer+%26+AI+Engineer&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=22c55e&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Jev%20👋&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%26amp%3B%20AI%20Engineer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+AI+Engineer;Building+AI-Powered+Web+Apps;Next.js+%7C+React+%7C+TypeScript;Groq+%7C+RAG+%7C+Vector+Databases;Open+to+Remote+Roles+%26+Freelance)](https://git.io/typing-svg)
 
@@ -82,10 +82,16 @@ const jev = {
 ## 📊 GitHub Stats
 
 <div align="center">
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=cyber-jev&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=22c55e&amp;icon_color=22c55e&amp;text_color=ffffff" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-jev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-jev&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=22c55e&amp;text_color=ffffff" width="48%"/>
+-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-jev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" width="48%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyber-jev&amp;theme=monokai" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyber-jev&amp;theme=monokai" width="48%"/>
+</p>
 
 </div>
 
