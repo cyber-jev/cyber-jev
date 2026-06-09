@@ -13,7 +13,7 @@
 ```typescript
 const jev = {
   name: "Johnny Jev",
-  location: "Port Harcourt, Nigeria 🇳🇬",
+  location: "Remote, Everywhere 🌐",
   role: "Frontend Developer & AI Engineer",
   available: true,
   worksWith: ["React", "Next.js", "TypeScript", "Groq AI", "Supabase"],
